@@ -22,7 +22,7 @@ Welcome to my profile, you can check my other social medias here:
     <img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
     
 
-![Markus most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Markus most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username={mviniortiz}&theme=blue-green)
 
 ## “Luck is what happens when preparation meets opportunity.”
 ― Seneca
