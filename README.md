@@ -1,9 +1,7 @@
 ## Hello, i am Markus Vinicius! 😊
 Welcome to my profile, you can check my other social medias here: 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mviniortizz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mviniortiz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-vinicius-612412201/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mviniortiz)
 
 ![Markus GitHub stats](https://github-readme-stats.vercel.app/api?username=mviniortiz&show_icons=true&theme=radical)
 
